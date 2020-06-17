@@ -8,7 +8,7 @@ body {
     background-color: #f2f4f6;
     background-repeat: no-repeat;
     background-position: top center;
-    background-image: url("background.png");
+    background-image: url(background.png);
 }
 
 .container {
